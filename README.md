@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">- 💻 Frontend developer passionate about building clean UIs with React & Next.js <br>- 🎨 Tailwind & shadcn/ui fan <br>- 🧠 Always learning new tools & patterns <br>- 🚀 Loves turning ideas into real, working products.</p>
+<p align="left">- 🤝 Client-facing engineer: I work with clients on discovery and onboarding, then build what they need <br>- 💻 Building clean UIs with React, Next.js & TypeScript <br>- 🤖 Recently exploring AI products: RAG, streaming chat, and support agents <br>- 🚀 Love turning client problems into real, working products</p>
 
 ###
 
